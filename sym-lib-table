@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74HC4066D_653")(type "KiCad")(uri "C:/Users/josel/hobby/dev_teensy/cricri/Hardware_SDR/kicad_download/74HC4066D_653.kicad_sym")(options "")(descr ""))
+  (lib (name "Teensy")(type "Legacy")(uri "C:/Users/josel/hobby/dev_teensy/cricri/Hardware_SDR/kicad_download/teensy.lib")(options "")(descr ""))
+  (lib (name "audioshield")(type "KiCad")(uri "C:/Users/josel/hobby/dev_teensy/cricri/Hardware_SDR/kicad_download/AUDIOSHIELD-REVD.kicad_sym")(options "")(descr ""))
+  (lib (name "Abracon_Crystal")(type "KiCad")(uri "C:/Users/josel/hobby/dev_teensy/cricri/Hardware_SDR/kicad_download/ABM7-16.000MHZ-D2Y-T.kicad_sym")(options "")(descr ""))
+)
