@@ -39,6 +39,7 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 157 59)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (plot_on_all_layers_selection 0x0000000_00000000)
@@ -69,7 +70,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "")
     )
@@ -3406,9 +3407,9 @@
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 226b8dc9-0ca8-4d4e-b449-cc03750c90ba))
     (fp_line (start 2.25 1.6) (end -2.25 1.6)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 575c0708-b85d-443c-9a3b-02470cc8a7d2))
-    (pad "1" smd roundrect (at -2.1375 0) (size 1.125 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.222222)
+    (pad "1" smd roundrect (at -2.1375 0) (size 1.125 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2222222222)
       (net 14 "Net-(D1-K)") (pinfunction "1") (pintype "passive") (tstamp 3b286608-85f9-49bf-875f-f1a2021f7320))
-    (pad "2" smd roundrect (at 2.1375 0) (size 1.125 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.222222)
+    (pad "2" smd roundrect (at 2.1375 0) (size 1.125 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2222222222)
       (net 4 "GNDA") (pinfunction "2") (pintype "passive") (tstamp 033747c1-ec34-4187-8e37-1089ff9469d0))
     (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_1812_4532Metric.wrl"
       (offset (xyz 0 0 0))
