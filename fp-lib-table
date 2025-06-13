@@ -3,4 +3,5 @@
   (lib (name "kicad_download")(type "KiCad")(uri "${KIPRJMOD}/kicad_download")(options "")(descr ""))
   (lib (name "Shield_teensy")(type "KiCad")(uri "${KIPRJMOD}/Shield_teensy.pretty")(options "")(descr ""))
   (lib (name "Xtal")(type "KiCad")(uri "${KIPRJMOD}/Xtal.pretty")(options "")(descr ""))
+  (lib (name "Library_test_point")(type "KiCad")(uri "${KIPRJMOD}/Library_test_point.pretty")(options "")(descr ""))
 )

@@ -1,0 +1,5 @@
+Notes de mise au point:
+
+Injecter signal de CLK2 sur l'entrée du récepteur, fréquence décalée de 50kHz, 
+avec 50 db (1/300) d'atténuation -> 100mV crête (triangle) sur chacune des 2 entrées du shield audio
+
