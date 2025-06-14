@@ -4,4 +4,5 @@
   (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/kicad_download/teensy.lib")(options "")(descr ""))
   (lib (name "audioshield")(type "KiCad")(uri "${KIPRJMOD}/kicad_download/AUDIOSHIELD-REVD.kicad_sym")(options "")(descr ""))
   (lib (name "Abracon_Crystal")(type "KiCad")(uri "${KIPRJMOD}/kicad_download/ABM7-16.000MHZ-D2Y-T.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74CBTLV3253PW")(type "KiCad")(uri "${KIPRJMOD}/kicad_download/SN74CBTLV3253PW.kicad_sym")(options "")(descr ""))
 )
