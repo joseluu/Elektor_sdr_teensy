@@ -1,0 +1,4 @@
+# Ensure core KiCad files are counted in stats
+*.kicad_pcb linguist-detectable=true
+*.kicad_sch linguist-detectable=true
+
